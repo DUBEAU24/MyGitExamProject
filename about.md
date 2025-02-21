@@ -1,0 +1,1 @@
+"## Le but de ce projet est d'apprendre … utiliser Git et GitHub … travers des actions concrŠtes comme la gestion des d‚p“ts, des branches et des Pull Requests. Il permet aussi de comprendre la gestion des Issues et l'automatisation avec GitHub Actions" 
